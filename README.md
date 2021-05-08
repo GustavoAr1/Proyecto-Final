@@ -5,3 +5,4 @@ Con el fin de facilitar a todos los usuarios sus datos ingresados y un monitoreo
 - Gustavo Adolfo Durango Chacón.
 -  Andrea Carolina Pérez Rodríguez.
 - Andres Peña Chavarria
+- Jesús Alberto cordero 
